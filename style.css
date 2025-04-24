@@ -3,3 +3,18 @@ html {
     width: 100%;
   }
   
+  h1{
+    color: green;
+  }
+
+  h2{
+    cursor: pointer;
+  }
+
+  .azul{
+    color: blue;
+  }
+
+  #rojo{
+    color: red;
+  }
